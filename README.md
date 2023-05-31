@@ -8,8 +8,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudha1710&label=Profile%20views&color=0e75b6&style=flat" alt="anirudha1710" /> </p>
 
 <br>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirudha1710&show_icons=true&locale=en" alt="anirudha1710"
+<img align="center" src="https://github-readme-stats-stp2003.vercel.app/api?username=anirudha1710&show_icons=true&theme=tokyonight&border_radius=7.6"
 <br>
+
+<br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anirudha1710&theme=tokyonight&border_radius=7.6"
+<br/>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudha1710" alt="anirudha1710" /></a> </p>
 

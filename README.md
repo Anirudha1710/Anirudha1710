@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Cloud developer from India</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1000"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudha1710&label=Profile%20views&color=0e75b6&style=flat" alt="anirudha1710" /> </p>

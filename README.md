@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anirudha Sharma</h1>
 <h3 align="center">A passionate Cloud developer from India</h3>
 
+<div id="header" align="left">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0iK3sHMMXchgj77AimNFmM&ust=1685624336956000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMj_sJDOn_8CFQAAAAAdAAAAABAE" width="250"/>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudha1710&label=Profile%20views&color=0e75b6&style=flat" alt="anirudha1710" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudha1710" alt="anirudha1710" /></a> </p>

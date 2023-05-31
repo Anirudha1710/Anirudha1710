@@ -1,5 +1,5 @@
 <h1 align="center">Hey there👋, I'm Anirudha Sharma</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1&center=true&width=435&lines=Computer+Science+Student;Competitive+Programmer;DSA+%7C+Algorithm+%7C+JAVA+%7C+PYTHON;Cloud+Developer+%7C+Android+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10&center=true&width=550&lines=Computer+Science+Student;Competitive+Programmer;DSA+%7C+Algorithm+%7C+JAVA+%7C+PYTHON;Cloud+Developer+%7C+Android+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Cloud developer from India</h3>
 
 <div id="header" align="left">

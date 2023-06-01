@@ -16,7 +16,7 @@
 <br/>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudha1710" alt="anirudha1710" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudha1710&theme=onedark" alt="anirudha1710" /></a> </p>
 
 - 🔭 I’m currently working on [Java](https://github.com/Anirudha1710/Java)
 

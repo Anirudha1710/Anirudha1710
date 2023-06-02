@@ -48,4 +48,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudha1710&" alt="anirudha1710" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudha1710&theme=tokyonight" alt="anirudha1710" /></p>

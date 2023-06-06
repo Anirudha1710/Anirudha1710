@@ -49,3 +49,8 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudha1710&theme=tokyonight" alt="anirudha1710" /></p>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%"/>
+<br>

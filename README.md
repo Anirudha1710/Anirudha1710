@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on [Java](https://github.com/Anirudha1710/Java)
 
-- 🌱 I’m currently learning **Data Structureand Algorithm**
+- 🌱 I’m currently learning **Data Structure and Algorithm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

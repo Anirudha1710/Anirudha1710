@@ -16,7 +16,8 @@
 <br/>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?anirudha1710=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?Anirudha1710=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?Anirudha1710=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [Java](https://github.com/Anirudha1710/Java)
 

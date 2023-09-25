@@ -15,13 +15,16 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anirudha1710&theme=tokyonight&border_radius=7.6"
 <br/>
 
+## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?Anirudha1710=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-![trophy](https://github-profile-trophy.vercel.app/?Anirudha1710=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anirudha1710)](https://github.com/anirudha1710/github-profile-trophy)
+
+<br>
 
 - 🔭 I’m currently working on [Java](https://github.com/Anirudha1710/Java)
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

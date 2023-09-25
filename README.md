@@ -16,7 +16,7 @@
 <br/>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudha1710&theme=onedark" alt="anirudha1710" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?anirudha1710=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [Java](https://github.com/Anirudha1710/Java)
 

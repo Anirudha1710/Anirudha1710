@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on [Java](https://github.com/Anirudha1710/Java)
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
+- 🌱 I’m currently learning **Flutter**
 <br>
 
 <h3 align="left">Connect with me:</h3>

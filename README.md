@@ -6,6 +6,13 @@
 
 </div>
 
+<br>
+✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=8.0)
+
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudha1710&label=Profile%20views&color=0e75b6&style=flat" alt="anirudha1710" /> </p>
 
 <br>

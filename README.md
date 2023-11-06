@@ -1,19 +1,17 @@
 <h1 align="center">Hey there👋, I'm Anirudha Sharma </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10&center=true&width=550&lines=Computer+Science+Student;Competitive+Programmer;DSA+%7C+Algorithm+%7C+JAVA+%7C+PYTHON;Cloud+Developer+%7C+Android+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudha1710&label=Profile%20views&color=0e75b6&style=flat" alt="anirudha1710" /> </p>
 <div id="header" align="left">
 <img align="centre" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
-
+<br>
 </div>
 
-<br>
+
 ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=8.0)
-
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudha1710&label=Profile%20views&color=0e75b6&style=flat" alt="anirudha1710" /> </p>
 
 <br>
 <img align="center" src="https://github-readme-stats-stp2003.vercel.app/api?username=anirudha1710&show_icons=true&theme=tokyonight&border_radius=7.6"

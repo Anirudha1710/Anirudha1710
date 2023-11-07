@@ -8,11 +8,13 @@
 <br>
 </div>
 
+<br>
 
 ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=8.0)
 
+<br>
 <br>
 <img align="center" src="https://github-readme-stats-stp2003.vercel.app/api?username=anirudha1710&show_icons=true&theme=tokyonight&border_radius=7.6"
 <br>

@@ -23,6 +23,8 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anirudha1710&theme=tokyonight&border_radius=7.6"
 <br/>
 
+<br>
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anirudha1710)](https://github.com/anirudha1710/github-profile-trophy)

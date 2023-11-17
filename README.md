@@ -58,7 +58,18 @@
 
 <br>
 
+## 💡 Leetcode Statistics
+![Leetcode Stats](https://leetcard.jacoblin.cool/anirudhasharma1710?ext=heatmap)
 
+<br>
+
+# 📊 GitHub Contribution Graph:
+
+[![Shashwat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anirudha1710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+# 📊 GitHub Streak:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudha1710&theme=tokyonight" alt="anirudha1710" /></p>
 

@@ -27,7 +27,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anirudha1710)](https://github.com/anirudha1710/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anirudha1710&theme=onedark)](https://github.com/anirudha1710/github-profile-trophy)
 
 <br>
 

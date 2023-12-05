@@ -31,7 +31,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [Java](https://github.com/Anirudha1710/Java)
+- 🔭 I’m currently working on [Weather_app](https://github.com/anirudha1710/Weather_app)
 
 - 🌱 I’m currently learning **Flutter**
 <br>

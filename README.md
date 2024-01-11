@@ -31,7 +31,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/anirudha1710/Portfolio)
+- 🔭 I’m currently working on [Bhagavad-geeta](https://github.com/anirudha1710/Shrimad-Bhagavad-Gita)
 
 - 🌱 I’m currently learning **Flutter**
 <br>

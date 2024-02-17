@@ -65,6 +65,11 @@
 
 <br>
 
+## 💡 Gfg Statistics
+[![Anirudha's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=anirudha1710)](https://auth.geeksforgeeks.org/user/anirudha1710)
+
+<br>
+
 # 📊 GitHub Contribution Graph:
 
 [![Anirudha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anirudha1710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)

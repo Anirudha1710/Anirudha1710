@@ -31,9 +31,9 @@
 
 <br>
 
-- 🔭 I’m currently working on [Bhagavad-geeta](https://github.com/anirudha1710/Shrimad-Bhagavad-Gita)
+- 🔭 I’m currently working on [Converse](https://github.com/anirudha1710/Converse)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **FireBase**
 <br>
 
 <h3 align="left">Connect with me:</h3>

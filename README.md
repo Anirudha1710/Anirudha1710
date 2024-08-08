@@ -61,7 +61,7 @@
 <br>
 
 ## 💡 Leetcode Statistics
-![Leetcode Stats](https://leetcard.jacoblin.cool/anirudhasharma1710?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/anirudha1710?ext=heatmap)
 
 <br>
 

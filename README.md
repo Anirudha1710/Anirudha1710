@@ -66,7 +66,7 @@
 <br>
 
 ## 💡 Gfg Statistics
-[![Anirudha's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=anirudha1710)](https://auth.geeksforgeeks.org/user/anirudha1710)
+[![Anirudha's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=anirudha1710)](https://www.geeksforgeeks.org/user/anirudha1710/)
 
 <br>
 
